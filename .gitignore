@@ -1,0 +1,7 @@
+# Archivos temporales del sistema y de GDevelop
+.DS_Store
+*.autosave
+__pycache__/
+
+# Copia comprimida (el repositorio ya contiene todo el proyecto)
+Eldoria.zip
